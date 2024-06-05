@@ -1,5 +1,7 @@
 # Python Snipping Tool
 
+![snipping_tool_demo](https://github.com/sungbinlee/snipping-tool/assets/52542229/bf457fba-d073-4a80-9a37-d81f0179bd41)
+
 This project is a Python-based snipping tool developed using PySide6 and Pillow libraries. Users can capture screenshots of any object on their screen. It is based on the implementation of [harupy/snipping-tool](https://github.com/harupy/snipping-tool) and additionally supports dual-monitor setups and handles scaling for high-resolution displays.
 
 ## Features
