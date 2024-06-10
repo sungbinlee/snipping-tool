@@ -24,3 +24,6 @@ This project is a Python-based snipping tool developed using PySide6 and Pillow 
 4. The application will start, allowing you to capture screenshots of any object on your screen.
 5. Screenshots will be automatically saved with incrementing file names (e.g., `snip1.png`, `snip2.png`, etc.).
 6. Press the `Q` key to exit the application.
+
+## 블로그 글 읽어보기
+- https://sungbinlee.dev/software%20engineering/snipping-tool-debugging/
