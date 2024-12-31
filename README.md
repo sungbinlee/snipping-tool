@@ -26,4 +26,4 @@ This project is a Python-based snipping tool developed using PySide6 and Pillow 
 6. Press the `Q` key to exit the application.
 
 ## 블로그 글 읽어보기
-- https://sungbinlee.dev/software%20engineering/snipping-tool-debugging/
+- https://tech.sungbinlee.dev/software%20engineering/snipping-tool-debugging/
